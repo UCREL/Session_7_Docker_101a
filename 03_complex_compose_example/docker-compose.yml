@@ -1,0 +1,15 @@
+services:
+  worker:
+    image: demo-worker:latest
+    build: worker
+    restart: always
+    deploy:
+      mode: replicated
+      replicas: 20
+  
+  server:
+    image: demo-server:latest
+    build: server
+    restart: never
+    depends_on:
+      - worker
