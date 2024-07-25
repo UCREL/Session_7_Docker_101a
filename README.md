@@ -9,3 +9,5 @@ We encourage you to use the lab desktops for this to simplify things, but if you
 
 On the lab PCs and the instructions here, we will be using Podman, but if you have Docker installed simply replace any instance of `podman` in the instructions with `docker` and the commands should be equivalent.
 If you have any issues, please ask.
+
+Part of the [UCREL NLP Summer School, 2024](https://ucrel.lancs.ac.uk/uss2024/index.html) - [Resources Index Repository](https://github.com/UCREL/USS2024)
