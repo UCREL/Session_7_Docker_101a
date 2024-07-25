@@ -2,14 +2,14 @@ services:
   worker:
     image: demo-worker:latest
     build: worker
-    restart: always
+    restart: unless-stopped
     deploy:
       mode: replicated
-      replicas: 20
+      replicas: 5
   
   server:
     image: demo-server:latest
     build: server
-    restart: never
+    restart: unless-stopped
     depends_on:
       - worker
