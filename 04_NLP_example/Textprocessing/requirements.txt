@@ -1,0 +1,9 @@
+pyspellchecker
+langdetect
+language_tool_python
+spacy
+pymusas
+lemminflect
+requests
+IPython
+aiohttp
