@@ -186,7 +186,7 @@ extractor.visualize_entities(text)
 https://github.com/IsabelMeraner/BotanicalNER/tree/master
 
 # DB structure
-![Data base Structure](images/British_books_DB.jpg)
+![Data base Structure](British_books_DB.jpg)
 
 
 ### Contacts
