@@ -17,10 +17,10 @@
 - Inform landscape management with historical data.
 - Enable ecological comparison of past and present vegetation.
 
+# DB structure
+![Data base Structure](British_books_DB.jpg)
 
-# IAA Oracle ULTEC Text Processing
 
-This repository, part of the UCREL IAA Oracle ULTEC project, focuses on advanced text processing techniques and tools designed for linguistic analysis.
 ## Getting Started
 
 ### Prerequisites
@@ -185,8 +185,7 @@ extractor.visualize_entities(text)
 # Plant names
 https://github.com/IsabelMeraner/BotanicalNER/tree/master
 
-# DB structure
-![Data base Structure](British_books_DB.jpg)
+
 
 
 ### Contacts
